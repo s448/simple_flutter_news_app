@@ -49,11 +49,11 @@ class _HomePageState extends State<HomePage> {
                     color: Colors.black),
                 children: <TextSpan>[
                   TextSpan(
-                    text: 'News ',
+                    text: 'Flutter ',
                     style: TextStyle(fontSize: 22, color: Colors.white),
                   ),
                   TextSpan(
-                    text: 'Hub ',
+                    text: 'News',
                     style: TextStyle(fontSize: 22, color: Colors.redAccent),
                   )
                 ],
